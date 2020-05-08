@@ -1,6 +1,9 @@
 # todo-ist
 
-Desenvolvimento de sistema para gestão de tarefas no formato "to do". Deve contemplar as funcionalidades de criação de listas, adição, edição e exclusão de tarefas, além de opção de definir como concluída.
+Desenvolvimento de sistema para gestão de tarefas no formato "to do". Deve contemplar no minimo as funcionalidades de:
+- Login de usuários diferentes;
+- Criação de listas, leitura, edição e exclusão de listas;
+- Criação de listas, leitura, edição e exclusão de tarefas;
 
 ## Framework
 
