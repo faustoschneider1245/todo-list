@@ -22,8 +22,8 @@ Columns       | Type
 User          | FK
 Name          | String
 Description   | Short Text
-Created At    | Datetime
-Updated At    | Datetime
+Created       | Datetime
+Updated       | Datetime
 
 ### Tarefas
 
@@ -31,10 +31,10 @@ Columns       | Type
 ------------- | ------
 Lista         | FK
 Description   | Short Text
-Due At        | Date
-Completed At  | Datetime
-Created At    | Datetime
-Updated At    | Datetime
+Due           | Date
+Completed     | Datetime
+Created       | Datetime
+Updated       | Datetime
 
 ### Usuários
 
@@ -43,8 +43,8 @@ Columns       | Type
 Name          | String
 Email         | String
 Password      | String
-Created At    | Datetime
-Updated At    | Datetime
+Created       | Datetime
+Updated       | Datetime
 
 Após concluir o projeto, o mesmo será publicado em um ambiente Ubuntu, com Nginx para webserver na empresa Digital Ocean. 
 
