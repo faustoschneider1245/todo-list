@@ -39,8 +39,10 @@ Columns       | Type
 ------------- | ------
 Name          | String
 Email         | String
+Password      | String
 Created At    | Datetime
 Updated At    | Datetime
 
-
 Após concluir o projeto, o mesmo será publicado em um ambiente Ubuntu, com Nginx para webserver na empresa Digital Ocean. 
+
+Será avaliado a praticidade nas escolhas para desenvolvimento, <a href="https://owasp.org/www-project-top-ten/">ítens básicos de segurança</a> e respeito a padrões de projeto DRY, MVC e <a href="https://www.php-fig.org/">PSR</a>.
