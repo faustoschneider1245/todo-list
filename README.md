@@ -1,4 +1,4 @@
-# todo-ist
+# Todo List
 
 Desenvolvimento de sistema para gestão de tarefas no formato "to do". Deve contemplar no minimo as funcionalidades de:
 - Login de usuários diferentes;
